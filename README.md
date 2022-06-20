@@ -27,7 +27,7 @@ Users should be able to:
 
 ![](screenshots/Component%20card%20Mobile%20version.png)
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-with-css-grid-and-flex-01MAR0xbVQ]
 - Live Site URL: https://p4bloxx.github.io/Stats-preview-card-component/
 
 ## My process
